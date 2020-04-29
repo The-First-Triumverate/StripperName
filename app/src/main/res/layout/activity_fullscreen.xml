@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="#1D1D1C"
+             tools:context=".FullscreenActivity">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <TextView
+                android:text="@string/what_is_your"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/title1" android:textColor="#FF9800"
+                android:textSize="36sp" android:fontFamily="@font/caveat_bold" android:layout_alignTop="@+id/null"/>
+    </LinearLayout>
+</RelativeLayout>

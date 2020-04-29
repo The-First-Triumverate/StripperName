@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hoe</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title1">What is your</string>
+    <string name="what_is_your">What is your</string>
+</resources>
